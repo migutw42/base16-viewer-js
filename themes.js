@@ -1,0 +1,4 @@
+
+window.themes = [
+	'3024','apathy','ashes','atelier-cave','atelier-dune','atelier-estuary','atelier-forest','atelier-heath','atelier-lakeside','atelier-plateau','atelier-savanna','atelier-seaside','atelier-sulphurpool','bespin','brewer','bright','chalk','codeschool','darktooth','default-dark','default-light','eighties','embers','flat','github','google-dark','google-light','grayscale-dark','grayscale-light','green-screen','harmonic16-dark','harmonic16-light','hopscotch','ir-black','isotope','london-tube','macintosh','marrakesh','materia','mexico-light','mocha','monokai','ocean','oceanicnext','onedark','paraiso','phd','pico','pop','railscasts','seti-ui','shapeshifter','solar-flare','solarized-dark','solarized-light','spacemacs','summerfruit-dark','summerfruit-light','tomorrow-night','tomorrow','twilight','unikitty-dark','unikitty-light'
+]
